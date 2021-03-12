@@ -89,3 +89,7 @@ s ins u span 等
 >3. broder-style:dotted 点线
 >4. 简写 broder: 1px solid 颜色
 >5. broder-collapse:collapse 合并重叠相邻的边框
+* 内边距 padding(爬 订)
+>1. padding 上下内边距 左右外边距
+>2. padding 上下边距 左右边距 下边距
+>3. padding 上内边距 又内边距 下内边距 左边距
